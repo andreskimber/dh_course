@@ -1,0 +1,99 @@
+---
+title: "Spatial data and GIS in the humanities"
+# subtitle: "Magistriseminar arheoloogias (FLAJ.01.141)"
+author: "Andres Kimber"
+institute: "PhD student in archaeology, National Heritage Board cartography counselor"
+date: "11.11.2020"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: inverse, center, middle
+
+# What is space in humanities?
+
+![fairdata](imgs/example_lotr_uuemaa.jpg)
+
+---
+
+---
+
+# Geographic information system (GIS)
+
+.pull-left[
+- spatial data
+- management
+- collecting
+- presentation
+- analysis, modeling
+]
+
+.pull-right[
+![gis](imgs/gis_natgeo.jpg).caption[Layer-based working principles]
+]
+
+---
+
+# GIS software
+
+.pull-left[
+![qgis](imgs/qgis_logo.png)
+]
+
+.pull-right[
+![grass](imgs/grass.png)
+]
+
+
+---
+
+# GIS software
+
+.pull-left[
+![r](imgs/Rlogo.png)
+]
+
+.pull-right[
+![qgis](imgs/python_logo.svg)
+]
+
+---
+
+
+# Uses of GIS
+
+.pull-left[![illinois](imgs/illinois.PNG).caption[Archaeological predictive model of the state of Illinois]]
+
+.pull-right[![haav](imgs/arheo_example_haav_asulate_mudel_downsize.png).caption[Predictive modeling of Iron Age settlements (Haav 2014)]]
+
+---
+
+# LiDAR data 
+
+![syvahavva](imgs/syvahavva.png).caption[Archaeological burial sites on public elevation model and high-resolution lidar model]
+
+---
+# LiDAR data 
+
+![rosma](imgs/rosma_linnus.png).caption[Rosma hillfort]]
+
+---
+# LiDAR data 
+
+![saue](imgs/saue_p6llud.png).caption[Ancient fields systems]]
+
+---
+
+class: inverse, middle, center
+
+# Thank you for your attention! 
+
+andres.kimber@ut.ee
+
+twitter.com/andreskimber
+
+
